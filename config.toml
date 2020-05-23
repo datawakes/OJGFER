@@ -80,7 +80,7 @@ hasChildren = true
   URL = "budget"
   
 [[menu.main]]
-name = "Street Trees"
+name = "Street Tree"
 URL = "trees"
 weight = 4
   
