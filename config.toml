@@ -56,26 +56,26 @@ weight = 2
 
 [[menu.main]]
 weight = 3
-name = "Administration"
+name = "Forms"
 hasChildren = true
 
   [[menu.main]]
-  parent = "Administration"
+  parent = "Forms"
   name = "Architectural Review"
   URL = "arb"
 
   [[menu.main]]
-  parent = "Administration"
+  parent = "Forms"
   name = "Bylaws"
   URL = "bylaws"
 
   [[menu.main]]
-  parent = "Administration"
+  parent = "Forms"
   name = "Dues"
   URL = "dues"
 
   [[menu.main]]
-  parent = "Administration"
+  parent = "Forms"
   name = "Budget"
   URL = "budget"
   
