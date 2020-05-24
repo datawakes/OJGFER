@@ -1,7 +1,7 @@
 ######################## default configuration ####################
 baseURL = ""
 title = "Woodbrook"
-theme = ""
+theme = "educenter-hugo"
 # post pagination
 paginate = "6"
 # post excerpt
